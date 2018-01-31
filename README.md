@@ -1,5 +1,5 @@
 # GlueToolKits
-This is a java executable program I used in daily life.
+A java executable program in daily work
 
 ## Pre-requirement
 Java 8
